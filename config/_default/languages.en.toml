@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Endelium - Your Partner in Sound"
+copyright = "© Endelium"
+
+[params]
+  dateFormat = "2 January, 2006"
+
+  # mainSections = ["section1", "section2"]
+  description = "Independent record label, distributor and production company, specialising in the creation & distribution of bespoke classical music projects featuring independent artists, ensembles and composers"
+
+[params.author]
+  name = "Endelium"
+  image = "img/author.png"
+  headline = "Your Partner in Sound"
+  bio = "Your Partner in Sound"
+  links = [
+    { link = "https://endelium.com/" },
+    { instagram = "https://instagram.com/endeliumrecords" },
+    { x-twitter = "https://twitter.com/endeliumrecords" },
+    { linkedin = "https://linkedin.com/company/endelium-records" },
+    { email = "mailto:hello@endelium.com" },
+  ]
+
